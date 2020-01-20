@@ -5,8 +5,8 @@ Simple exercise to construct a controller that controls the simulated Duckiebot 
 """
 
 import sys
-sys.path.append('/home/anton/github/aido-auto/gym-duckietown/')
-#print(sys.path)
+sys.path.append('/home/serezha/Desktop/last/AD-simulator/gym-duckietown/')
+print(sys.path)
 #sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 
 import time
